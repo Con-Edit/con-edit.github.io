@@ -1,4 +1,2 @@
-# con-edit.github.io
-theme: jekyll-theme-minimal
-title: Octocat's homepage
-description: Bookmark this to keep an eye on my project updates!
+# Mi Casa Es Su Casa!
+Hello Chat!
